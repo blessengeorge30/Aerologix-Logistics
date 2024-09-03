@@ -41,7 +41,7 @@
     <div class="hero hero-video">
         <!-- Video Start -->
 		<div class="hero-bg-video">
-			<!-- Selfhosted Video Start -->
+			Selfhosted Video Start
 			<video autoplay muted loop id="myVideo"><source src="images/hero-bg-video5.mp4" type="video/mp4"></video>
 			<!-- Selfhosted Video End -->
 
